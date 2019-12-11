@@ -1,4 +1,4 @@
 # Alquerque-AI
 
-a minimax solution to alquerque game. ai codes are in Player.py
+a minimax solution to alquerque game. AI codes are in Player.py
 
